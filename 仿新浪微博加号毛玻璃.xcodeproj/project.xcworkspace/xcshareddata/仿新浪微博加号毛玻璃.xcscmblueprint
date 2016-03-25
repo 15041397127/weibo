@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "B8EDB8C12E069D011CEA8A0F76EA2D370E4A744A",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "CBD6212B7692064B5673D5EDDE332C9A6F624648" : 0,
+    "B8EDB8C12E069D011CEA8A0F76EA2D370E4A744A" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "E2DFC4C2-E667-4182-964E-F64ABDFDD38D",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "CBD6212B7692064B5673D5EDDE332C9A6F624648" : "",
+    "B8EDB8C12E069D011CEA8A0F76EA2D370E4A744A" : "sinaWeibo\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "仿新浪微博加号毛玻璃",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "仿新浪微博加号毛玻璃.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/15041397127\/sinaWeibo.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "B8EDB8C12E069D011CEA8A0F76EA2D370E4A744A"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/15041397127\/DownLoadImage.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "CBD6212B7692064B5673D5EDDE332C9A6F624648"
+    }
+  ]
+}
